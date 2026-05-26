@@ -47,6 +47,17 @@ src/
 
 ## 🧪 Example Output
 
+Choose number of students: 3
+
+Enter name of Student 1: Ali
+Enter grade of Student 1: 95
+
+Enter name of Student 2: Sara
+Enter grade of Student 2: 82
+
+Enter name of Student 3: Omar
+Enter grade of Student 3: 74
+
 --- Student Grades with Letters ---
 Ali: 95 → Grade Letter: A
 Sara: 82 → Grade Letter: B
