@@ -47,6 +47,7 @@ src/
 
 ## 🧪 Example Output
 
+```
 Choose number of students: 3
 
 Enter name of Student 1: Ali
@@ -62,7 +63,7 @@ Enter grade of Student 3: 74
 Ali : 95 → Grade Letter : A
 Sara : 82 → Grade Letter : B
 Omar : 74 → Grade Letter : C
-
+```
 ---
 
 ## 📈 Statistics
