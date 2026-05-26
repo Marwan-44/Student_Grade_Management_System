@@ -59,9 +59,9 @@ Enter name of Student 3: Omar
 Enter grade of Student 3: 74
 
 --- Student Grades with Letters ---
-Ali: 95 → Grade Letter: A
-Sara: 82 → Grade Letter: B
-Omar: 74 → Grade Letter: C
+Ali : 95 → Grade Letter : A
+Sara : 82 → Grade Letter : B
+Omar : 74 → Grade Letter : C
 
 ---
 
